@@ -8,24 +8,6 @@ const NAVIGATION_CARDS = [
   { icon: "⚠️", title: "AI Detection", url: "https://renesistech-aidetection.hf.space" }
 ]
  
-Image Analysis
-Gradio
- 
-https://renesistech-doc-analysis.hf.space
- 
-Doc
- 
-AIdetection - a Hugging Face Space by renesistech
- 
-AI detection
-AIdetection - a Hugging Face Space by renesistech
-Discover amazing ML apps made by the community
- 
-Water Marking: https://renesistech-watermaking-centurion-final.hf.space
- 
-https://noumanjavaid-centurion.hf.space Here is the Link to the Deep fake
-Streamlit
- 
 const TUTORIAL_CARDS = [
   {
     title: "Getting Started with Centurion",
