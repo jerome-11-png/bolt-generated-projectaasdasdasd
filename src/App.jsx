@@ -1,13 +1,31 @@
 import React, { useState } from 'react'
 
 const NAVIGATION_CARDS = [
-  { icon: "🔍", title: "DeepFake Detection", url: "https://noumanjavaid-new-space.hf.space" },
+  { icon: "🔍", title: "DeepFake Detection", url: "https://noumanjavaid-centurion.hf.space" },
   { icon: "📄", title: "Document Analysis", url: "https://noumanjavaid-centurionv2.hf.space" },
-  { icon: "🎥", title: "Video Watermarking", url: "https://noumanjavaid-watermark-demo-video.hf.space" },
-  { icon: "🔐", title: "Image Authentication", url: "https://noumanjavaid-centii.hf.space" },
-  { icon: "🖼️", title: "Image Comparison", url: "https://another-example.com" }
+  { icon: "🎥", title: "Image Watermarking", url: "https://renesistech-watermaking-centurion-final.hf.space" },
+  { icon: "🔐", title: "AI Detection ", url: "https://renesistech-aidetection.hf.space" },
+  { icon: "🖼️", title: "Image Comparison", url: "https://noumanjavaid-centii.hf.space" }
 ]
-
+ 
+Image Analysis
+Gradio
+ 
+https://renesistech-doc-analysis.hf.space
+ 
+Doc
+ 
+AIdetection - a Hugging Face Space by renesistech
+ 
+AI detection
+AIdetection - a Hugging Face Space by renesistech
+Discover amazing ML apps made by the community
+ 
+Water Marking: https://renesistech-watermaking-centurion-final.hf.space
+ 
+https://noumanjavaid-centurion.hf.space Here is the Link to the Deep fake
+Streamlit
+ 
 const TUTORIAL_CARDS = [
   {
     title: "Getting Started with Centurion",
