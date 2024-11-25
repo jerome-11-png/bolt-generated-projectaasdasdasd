@@ -4,10 +4,9 @@ const NAVIGATION_CARDS = [
   { icon: "🔍", title: "DeepFake Detection", url: "https://noumanjavaid-centurion.hf.space" },
   { icon: "📄", title: "Document Analysis", url: "https://renesistech-doc-analysis.hf.space" },
   { icon: "🔐", title: "Image Authentication", url: "https://renesistech-demo-ate.hf.space" },
-  { icon: "🖼️", title: "Image Comparison", url: "https://renesistech-watermaking-centurion-final.hf.space" },
+  { icon: "🖼️", title: "Image Watermarking", url: "https://renesistech-watermaking-centurion-final.hf.space" },
   { icon: "⚠️", title: "AI Detection", url: "https://renesistech-doc-analysis.hf.space" }
-];
-
+]
 
 const TUTORIAL_CARDS = [
   {
